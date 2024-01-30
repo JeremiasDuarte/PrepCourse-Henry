@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio modulo2 Course Henry
+Prueba de repositorio y clonarlo desde HitHub C
